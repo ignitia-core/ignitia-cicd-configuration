@@ -1,0 +1,9 @@
+{
+  "tenantId": "e45adde7-eb8f-43fe-8c55-c5bf129f22b5",
+  "subscriptionId": "05d1d0fd-b0aa-4868-8571-86c80bb9546a",
+  "clients": {
+    "github-oidc": {
+      "clientId": "d2914113-052f-4833-b295-e422bc27f378"
+    }
+  }
+}
